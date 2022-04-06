@@ -9,6 +9,7 @@ from selenium.webdriver.chrome.options import Options
 from selenium import webdriver
 import pandas as pd
 import re
+import time
 from datetime import date, timedelta
 #from webdriver_manager.chrome import ChromeDriverManager
 chrome_options = Options()
