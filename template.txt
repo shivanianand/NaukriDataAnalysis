@@ -1,0 +1,1 @@
+python3 -m    sample_naukri     --region us-central1     --runner DataflowRunner     --project     business-transformers  --temp_location gs://c2cnaukari/temp  --template_location gs://c2cnaukari/template --subnetwork=regions/us-central1/subnetworks/default
